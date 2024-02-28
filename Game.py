@@ -21,7 +21,7 @@ BULLET_FIRE_SOUND = pygame.mixer.Sound("D:\Python Project\Gun+Silencer.mp3")
 HEALTH_FONT = pygame.font.SysFont('comicsans', 40)
 WINNER_FONT = pygame.font.SysFont('comicsans', 100)
 
-FPS = 60
+FPS = 90
 VEL = 5
 BULLET_VEL = 7
 MAX_BULLETS = 3
